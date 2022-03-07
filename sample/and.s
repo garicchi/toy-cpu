@@ -1,0 +1,5 @@
+ldl r0, 0x1
+ldl r1, 0x2
+and r1, r0
+st r1, 0x64
+hlt
